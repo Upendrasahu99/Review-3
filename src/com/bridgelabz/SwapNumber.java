@@ -6,7 +6,7 @@ public class SwapNumber {
     public static void main(String[] args) {
         int a= 30;
         int b= 10;
-        System.out.println("Before swap value of variable a = " + a + " and b ");
+        System.out.println("Before swap value of variable a = " + a + " and b = " + b);
         a= a+b;
         b=a-b;
         a=a-b;
